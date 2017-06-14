@@ -1,0 +1,3 @@
+{:require  [paren.app]
+ :init-fns [paren.app/init]
+ :compiler-options {:asset-path "js/app.out"}}
